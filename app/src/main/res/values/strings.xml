@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Board</string>
+    <string name="clear_text">Clear text</string>
+    <string name="canvas_hint">Type anything to explain...</string>
+</resources>

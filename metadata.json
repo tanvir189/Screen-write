@@ -1,0 +1,6 @@
+{
+  "name": "Screen Board",
+  "description": "A clean blank canvas app designed for screen recording and explaining concepts with large readable text and dynamic clear button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
